@@ -11,7 +11,7 @@ For more detailed information about our software, including pricing, testimonial
 Become part of our growing community on Discord for support, tips, and networking with other TikTok Shop owners: [Join Discord](https://discord.gg/k2fzUuk2ps)
 
 ## 📹 Watch Our Demo
-See the TikTok Shop Affiliate Outreach Bot in action and discover its potential for your business: [![Watch the video](https://img.youtube.com/vi/LHLbxabpcKs/0.jpg)](https://www.youtube.com/watch?v=LHLbxabpcKs)
+See the TikTok Shop Affiliate Outreach Bot in action and discover its potential for your business: [![Watch the video](https://img.youtube.com/vi/AuNQR4Si7ic/0.jpg)](https://www.youtube.com/watch?v=AuNQR4Si7ic)
 
 ## Features
 - **Automated Messaging:** Send personalized messages to thousands of potential affiliates without lifting a finger.
